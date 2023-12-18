@@ -5,13 +5,12 @@ Welcome to my GitHub space! 🚀
 ## 🌐 Overview
 
 I thrive on diverse learning experiences, blending analytical skills, independent thinking, and effective communication. My journey combines tradition and innovation, showcasing creativity, teamwork, and strong interpersonal connections.
-
 ## 🚀 Skills
 
-- **Languages:** Python, JavaScript
-- **Web:** HTML, CSS, React
-- **Back-end:** Node.js
-- **Other:** Algorithms, Data Structures, Linux
+- **Languages:** 🐍 Python, 🟨 JavaScript
+- **Web:** 🌐 HTML, 🎨 CSS, ⚛️ React
+- **Back-end:** 🟩 Node.js
+- **Other:** 💻 Algorithms, 🧠 Data Structures, 🐧 Linux
 
 ## 🎓 Education
 
